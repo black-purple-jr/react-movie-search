@@ -2,7 +2,7 @@
 
 ## Overview
 
-A simple JavaScript and React.js app that lets you search movies / TV series, and save your favorite ones to a list.
+A simple JavaScript and React.js front-end app that lets you search movies / TV series, and save your favorite ones to spacific a list.
 
 ## Features
 
