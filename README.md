@@ -1,8 +1,58 @@
-# React Movie Search App
+# Movie Search App
 
-a simple react app that lets you search movies / TV series, and save your favorite ones.
+## Overview
 
-![Static Badge](https://img.shields.io/badge/v24.13.1-green?logo=Node.js&logoColor=%235FA04E&labelColor=%231F1F1F&color=%235FA04E)
-![Static Badge](https://img.shields.io/badge/v11.8.0-red?logo=npm&logoColor=%23CB3837&labelColor=%231F1F1F&color=%23CB3837)
-![Static Badge](https://img.shields.io/badge/v19.2.6-red?logo=React&logoColor=%2361DAFB&labelColor=%231F1F1F&color=%2361DAFB)
+A simple JavaScript and React.js app that lets you search movies / TV series, and save your favorite ones to a list.
 
+## Features
+
+* Searching for movies / TV shows.
+* Saving favorite movies / TV shows to a seperate list.
+
+## Technology Used
+
+* JavaScript
+* React.js
+* CSS
+* Vite (build tool)
+
+## Packages
+
+* React v19.2.6
+* dotenv v17.4.2
+
+## Quick Start
+
+### Prerequisites
+
+* Git
+* Node
+* NPM (comes with Node)
+
+### Installation
+
+#### 1. clone the repo locally
+
+```bash
+git clone https://github.com/black-purple-jr/react-movie-search
+```
+
+#### 2. install the necessary dependencies
+
+```bash
+npm install
+```
+
+#### 3. run a local dev server
+
+```bash
+npm run dev
+```
+
+## License
+
+This project is under MIT License — see [LICENSE](LICENSE) for details.
+
+## Author
+
+* Abdellah DAKIR ALLAH - [black-purple-jr](https://github.com/black-purple-jr) on GitHub and other platforms.
