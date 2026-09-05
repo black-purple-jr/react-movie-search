@@ -31,7 +31,7 @@ A simple React.js front-end application that allows users to search for movies a
 
 ### Installation
 
-#### 1. clone the repo locally
+#### 1. Clone the repo locally
 
 ```bash
 git clone https://github.com/black-purple-jr/react-movie-search.git
@@ -43,7 +43,7 @@ git clone https://github.com/black-purple-jr/react-movie-search.git
 npm install
 ```
 
-#### 3. run a local dev server
+#### 3. Run the local development server
 
 ```bash
 npm run dev
