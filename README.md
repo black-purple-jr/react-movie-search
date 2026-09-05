@@ -2,12 +2,12 @@
 
 ## Overview
 
-A simple JavaScript and React.js front-end app that lets you search movies / TV series, and save your favorite ones to spacific a list.
+A simple React.js front-end application that allows users to search for movies and TV shows and save their favorites to a separate list.
 
 ## Features
 
-* Searching for movies / TV shows.
-* Saving favorite movies / TV shows to a seperate list.
+* Search for movies and TV shows.
+* Save favorite movies and TV shows to a separate list.
 
 ## Technology Used
 
@@ -18,8 +18,8 @@ A simple JavaScript and React.js front-end app that lets you search movies / TV 
 
 ## Packages
 
-* React v19.2.6
-* dotenv v17.4.2
+* React `v19.2.6`
+* dotenv `v17.4.2`
 
 ## Quick Start
 
@@ -27,14 +27,14 @@ A simple JavaScript and React.js front-end app that lets you search movies / TV 
 
 * Git
 * Node
-* NPM (comes with Node)
+* NPM (included with Node)
 
 ### Installation
 
 #### 1. clone the repo locally
 
 ```bash
-git clone https://github.com/black-purple-jr/react-movie-search
+git clone https://github.com/black-purple-jr/react-movie-search.git
 ```
 
 #### 2. install the necessary dependencies
